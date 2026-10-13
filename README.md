@@ -3,7 +3,7 @@
 Sunstead and its OS are free. Use your own Raspberry Pi 5 or buy parts from Amazon or any supplier. Prebuilt Sunstead systems with branded cases are optional.
 
 - [DIY guide and free download](https://mysunstead.com/diy)
-- [Raspberry Pi 5 community alpha](https://github.com/HashbangGamesLLC/sunstead-releases/releases/tag/v0.3.0-alpha.community.6)
+- [Raspberry Pi 5 community alpha](https://github.com/HashbangGamesLLC/sunstead-releases/releases/tag/v0.4.0-alpha.community.20261013.2)
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 - [Optional prebuilt Sunstead](https://mysunstead.com/shop)
 
